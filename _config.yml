@@ -1,3 +1,26 @@
-auto: true
-server: true
-markdown: kramdown
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Sasalog
+tagline:             'Sasa&apos;s blog'
+description:         'My experiences.'
+url:                 http://sasalab.github.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Sasa
+  url:               http://sasalab.github.io
+  email:             e.issasan@gmail.com
+
+# Custom vars
+version:             1.0.0
