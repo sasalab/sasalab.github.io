@@ -4,7 +4,7 @@
  <title>Sasalog</title>
  <link href="http://sasalab.github.io/atom.xml" rel="self"/>
  <link href="http://sasalab.github.io/"/>
- <updated>2014-10-10T08:45:24+09:00</updated>
+ <updated>2014-10-10T09:13:59+09:00</updated>
  <id>http://sasalab.github.io</id>
  <author>
    <name>Sasa</name>
@@ -19,8 +19,10 @@
    <id>http://sasalab.github.io/2014/10/10/first-post</id>
    <content type="html">&lt;h2&gt;書いてみる&lt;/h2&gt;
 
-&lt;p&gt;書いてみる
-はじめてのjekyll+github&lt;/p&gt;
+&lt;p&gt;書いてみる&lt;br&gt;
+はじめてのjekyll+github&lt;br&gt;
+    書いてみる&lt;br&gt;
+    書いてみる  &lt;/p&gt;
 </content>
  </entry>
  
